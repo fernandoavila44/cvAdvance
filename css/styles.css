@@ -1,0 +1,58 @@
+body{
+    font-family: 'Exo 2', sans-serif;
+}
+
+header{
+    text-align: center;
+    background-color: #334756;
+    background-image: url("../img/img-background.png");
+    background-size: cover;
+
+}
+
+h1{
+    background-color: #082032;
+    color: #F0A500;
+    font-size: 30px;
+    margin-top: 0;
+    letter-spacing: 4px;
+    padding: 10px 0px 10px;
+    text-align: center; 
+}
+
+h2{
+    background-color: #082032;
+    color: #F0A500;
+}
+
+.perInfo{
+    font-weight: bold;
+    font-style: italic;
+    line-height: 30px;
+}
+
+.dateSt{
+    font-weight: bold;
+    float: left;
+}
+
+.marginLeft{
+    margin-left: 40px;
+}
+
+#footer{
+    background-color: #082032;
+    color: #FFFFFF;
+    padding: 5px 0px 5px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.socialIcons{
+    margin: 5px 15px;
+}
+
+.txtFtr{
+    width: 10%;
+    margin: 0 auto;
+}
